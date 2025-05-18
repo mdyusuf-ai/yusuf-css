@@ -1,0 +1,138 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+#one {
+    background-image: url("flower img.jpg");
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+    border: solid;
+    text-align: center;
+    color:yellow;
+}
+
+#two {
+    height: 100px;
+    width: 100px;
+    border-style:  dotted;
+    text-align: center;
+    background-color: red;
+    background-image: url("massa\ allah.jpg");
+    background-size: cover;
+    color: chartreuse;
+}
+
+body {
+    background-image: url("massa\ allah.jpg");
+    background-size: cover;
+}
+
+#tree {
+    height: 100px;
+    width: 100px;
+    border: solid;
+    background-image: url("yusuf\ img.png");
+    background-size: cover;
+    text-align: center;
+    color: green;
+}
+
+#four {
+    margin: 50px;
+}
+/*
+
+#div {
+    width: 100px;
+    height: 100px
+}
+
+.user {
+    width: 800px;
+    height: 200px;
+    border: solid;
+}
+
+#box1 {
+    background-color: aqua;
+    display: inline-block;
+}
+
+#box2 {
+    background-color: pink;
+    display: inline-block;
+}
+
+#box3 {
+    background-color: darkkhaki ;
+    display: inline-block;
+}
+
+#box4 {
+    background-color: indianred;
+    display: inline-block;
+}
+
+#box5 {
+    background-color: slateblue;
+    display: inline-block;
+}*/
+
+
+
+#box1 {
+    height: 300px;
+    width: 500px;
+    border: solid;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+div {
+    height: 80px;
+    width: 80px;
+    border: solid;
+    display: inline-block;
+}
+
+#box2 {
+    background-color: green;
+}
+
+#box3 {
+    background-color: blueviolet;
+}
+
+#box4 {
+    background-color: burlywood;
+}
+
+#box5 {
+    background-color: chartreuse;
+}
+
+#box6 {
+    background-color: chocolate;
+}
+
+#text {
+    color:black;
+    background-color: aqua;
+}
+
+#textone {
+    background-color: rgba(253,0,232,0.9);
+}
+
+
+
+
+
+
+
+
+
+
+

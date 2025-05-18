@@ -1,0 +1,130 @@
+#try {
+    color:blue;
+}
+
+.start {
+    height: 100px;
+    background-color: aqua;
+    border-style: dotted;
+}
+
+#ram {
+    width: 300px;
+    height: 90px;
+    background-color:bisque;
+    border-width: 2px;
+    border-style: dotted  ;
+    border-color:red;
+    text-align: center;
+    }
+
+#shor {
+    border: 2px solid red;
+}
+
+#or {
+    border-width: 2px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 10px;
+}
+
+
+#and {
+    border-style: dotted;
+    border-color: aqua;
+    border-radius: 50%;
+    border-width: 10px;
+    text-align: center;
+}
+
+button {
+    background-color:aqua;
+}
+ 
+#rohan {
+    text-decoration: none;
+}
+
+#moj {
+    text-decoration: none;
+}
+
+
+#need {
+    border-style: dotted;
+    border-radius: 0%;
+    padding-left: 25px;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    padding-right: 22px;
+
+}
+
+
+.tenth {
+    border-style: double;
+    border-width: 3px;
+    padding: 50px 25px 20px 50px;
+}
+
+
+#margin-top {
+    border-style: solid;
+    border-color:cyan ;
+    margin-top: 50px;
+}
+
+
+#raja {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: rgba(180,255,150,154) ;
+    padding-top: 60px;
+    padding-left: 80px;
+    padding-right: 80px;  
+    padding-bottom: 80px; 
+    text-align: center;
+}
+
+#israth {
+    text-decoration: none;
+}
+
+#yusuften {
+    text-decoration: none;
+}
+
+
+#konhai {
+    background-color: red;
+}
+
+#ashiq {
+    background-color: greenyellow;
+    display: inline;
+}
+
+#block {
+    display: block;
+}
+
+
+#margin {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border-style: solid;
+    display: block;
+    padding: 25px;
+    margin: 25px;
+}
+
+#marging {
+    visibility: hidden;
+    height: 100px;
+    width: 100px;
+}
+
+

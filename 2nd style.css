@@ -1,0 +1,135 @@
+h1 {
+    background-color: rgb(253, 0,0);
+}
+
+.for {
+    background-color: blanchedalmond;
+}
+
+button {
+    background-color: rgb(243, 255,61);
+}
+
+
+.solve {
+    background-color:aqua;
+}
+ 
+
+/* 2nd class start */
+
+
+.loremone {
+    text-align: center;
+}
+
+
+.yousuf {
+    text-align: center;
+}
+
+.yousuf {
+    background-color:chartreuse;
+}
+
+
+.yellow {
+    text-align: right;
+}
+ 
+.yellow {
+    background-color: aqua;
+}
+
+.yellow {
+    color: blue;
+}
+
+.red {
+    color:chartreuse;
+    background-color:dimgray;
+    text-align: center;
+}
+
+#osmania {
+    text-decoration:underline;
+    background-color: azure;
+}
+
+
+#osmaniaone {
+    text-decoration: overline;
+    background-color: aliceblue;
+}
+
+#somaniatwo {
+    text-decoration: line-through;
+    background-color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+.hlo {
+    text-decoration: dotted underline;
+}
+
+.hello {
+    text-decoration: wavy underline;
+}
+
+.Hello {
+    text-decoration: double underline;
+}
+
+.mohan {
+    font-weight: lighter;
+}
+
+.mohanA {
+    font-weight: normal;
+}
+
+.mohanB {
+    font-weight: bold;
+}
+
+.mohanC {
+    font-weight: bolder;
+}
+
+
+.ifone {
+    font-size: 90px
+}
+
+#iftwo {
+    font-size: 40px;
+}
+
+.yusuffont-size {
+    line-height:  50px
+}
+
+#rent {
+    text-transform: uppercase;
+}
+
+.rentel {
+    text-transform: capitalize;
+}
+
+#comeplite {
+    text-align: center;
+    color:blue;
+    background-color: rgb(0, 255,0)
+}
+
+
+
+
+
+
+
+

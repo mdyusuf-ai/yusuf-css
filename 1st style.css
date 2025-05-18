@@ -1,0 +1,84 @@
+
+
+
+h1 {
+    color:blue
+}
+
+
+button {
+    color:black;
+    background-color:rgb(255, 87   , 255) ;
+}
+
+
+body {
+    background-color: #ff00ff;
+}
+
+
+* h1 {
+    color: black ;
+}
+
+
+#ram {
+    color: aqua
+}
+#yusuf{
+    color:red
+}
+
+#yasin{
+    color:aqua
+}
+
+
+#israt {
+    color: yellow
+}
+
+
+
+
+#naaz {
+    color:aquamarine
+}
+
+.arman {
+    color:rgb(255, 204, 248)
+}
+
+.armanone {
+    color:#00ff6e
+}
+
+#box {
+    background-color: blue;
+}
+
+#go {
+    background-color: aquamarine;
+}
+
+
+
+.headingone {
+    color:antiquewhite
+}
+
+.headingtwo {
+    color:aqua
+}
+ .headiingthree {
+    color:bisque
+ }
+  
+
+
+ /*this is comment out word */
+
+
+
+
+
